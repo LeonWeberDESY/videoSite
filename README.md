@@ -25,3 +25,11 @@ mkdir public
 
 nano index.html (code einfügen)
 
+IP-Adressen, Passwörter und ".sh" commands anpassen
+
+Alle Commands müssen einmal manuell ausgeführt werden im Terminal um den sshkey zu generieren
+
+sudo reboot
+
+Nun kann auf http://IP-DES-PIS:3000/ der Server aufgerufen werden
+
