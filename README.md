@@ -7,6 +7,7 @@ Raspberry Pi neu aufsetzen
 Terminal öffnen
 
 sudo apt-get install node
+
 sudo apt-get install sshpass
 
 crontab -e
